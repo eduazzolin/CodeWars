@@ -69,8 +69,8 @@ def is_solved2(board):
     if board[2][0] == board[2][1] == board[2][2]: return board[2][2]
 
     # checking if it's unfinished:
-    for sequence in board:
-        if 0 in sequence: return -1
+    for line in board:
+        if 0 in line: return -1
 
     # then it must be a tie:
     return 0
