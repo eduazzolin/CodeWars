@@ -6,6 +6,10 @@ DESCRIPTION:
 If we list all the natural numbers below a given number that are multiples of 3 or 5, we get the sum of these multiples.
 If the given number is negative, return 0 (for languages that do have them).
 Note: If the number is a multiple of both 3 and 5, only count it once.
+
+KYU & CREDITS:
+6 kyu @jhoffner
+https://www.codewars.com/kata/514b92a657cdc65150000006
 */
 
 public class Multiples3or5 {

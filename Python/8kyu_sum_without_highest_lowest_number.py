@@ -10,6 +10,10 @@ Mind the input validation.
 Example
 { 6, 2, 1, 8, 10 } => 16
 { 1, 1, 11, 2, 3 } => 6
+
+KYU & CREDITS:
+8 kyu @user5036852
+https://www.codewars.com/kata/576b93db1129fcf2200001e6
 '''
 
 

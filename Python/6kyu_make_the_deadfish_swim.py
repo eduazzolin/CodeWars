@@ -11,6 +11,10 @@ s squares the value
 o outputs the value into the return array
 Invalid characters should be ignored.
 parse("iiisdoso")  ==>  [8, 64]
+
+KYU & CREDITS:
+6 kyu @NullData
+https://www.codewars.com/kata/51e0007c1f9378fa810002a9
 '''
 
 

@@ -9,6 +9,10 @@ Example: (Input --> Output)
 "Dermatoglyphics" --> true
 "aba" --> false
 "moOse" --> false (ignore letter case)
+
+KYU & CREDITS:
+5 kyu @chunjef
+https://www.codewars.com/kata/54ba84be607a92aa900000f1
 */
 
 function isIsogram(str) {

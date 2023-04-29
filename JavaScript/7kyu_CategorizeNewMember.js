@@ -15,6 +15,10 @@ Output will consist of a list of string values(in Haskell and C: Open or Senior)
 Example
 input = [[18, 20], [45, 2], [61, 12], [37, 6], [21, 21], [78, 9]]
 output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
+
+KYU & CREDITS:
+7 kyu @Brynx
+https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa
 */
 
 

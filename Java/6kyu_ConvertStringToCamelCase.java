@@ -13,6 +13,10 @@ Examples
 "the-stealth-warrior" gets converted to "theStealthWarrior"
 "The_Stealth_Warrior" gets converted to "TheStealthWarrior"
 "The_Stealth-Warrior" gets converted to "TheStealthWarrior"
+
+KYU & CREDITS:
+6 kyu @jhoffner
+https://www.codewars.com/kata/517abf86da9663f1d2000003
 */
 
 public class ConvertStringToCamelCase {

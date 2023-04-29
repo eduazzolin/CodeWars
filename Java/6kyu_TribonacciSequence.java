@@ -15,6 +15,10 @@ elements - signature included of the so seeded sequence.
 Signature will always contain 3 numbers; n will always be a non-negative number;
 if n == 0, then return an empty array (except in C return NULL) and be ready for
 anything else which is not clearly specified ;)
+
+KYU & CREDITS:
+6 kyu @GiacomoSorbi
+https://www.codewars.com/kata/556deca17c58da83c00002db
 */
 
 

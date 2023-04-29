@@ -17,6 +17,10 @@ The function, when given n = 25 and d = 1 as argument, should return 11 since
 the k*k that contain the digit 1 are:
 1, 16, 81, 100, 121, 144, 169, 196, 361, 441.
 So there are 11 digits 1 for the squares of numbers between 0 and 25.
+
+KYU & CREDITS:
+7 kyu @g964
+https://www.codewars.com/kata/566fc12495810954b1000030
 '''
 
 

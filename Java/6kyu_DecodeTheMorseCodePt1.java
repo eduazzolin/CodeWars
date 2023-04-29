@@ -21,6 +21,10 @@ NOTE: For coding purposes you have to use ASCII characters . and -, not Unicode 
 
 The Morse code table is preloaded for you as a dictionary, feel free to use it:
 Java: MorseCode.get(".--")
+
+KYU & CREDITS:
+6 kyu @jolaf
+https://www.codewars.com/kata/54b724efac3d5402db00065e
 */
 
 

@@ -12,6 +12,9 @@ The returned format must be correct in order to complete this challenge.
 
 Don't forget the space after the closing parentheses!
 
+KYU & CREDITS:
+6 kyu @xDranik
+https://www.codewars.com/kata/525f50e3b73515a6db000b83
 '''
 
 

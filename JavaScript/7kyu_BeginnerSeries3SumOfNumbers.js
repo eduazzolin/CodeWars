@@ -13,6 +13,10 @@ Examples (a, b) --> output (explanation)
 (1, 1) --> 1 (1 since both are same)
 (-1, 0) --> -1 (-1 + 0 = -1)
 (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
+
+KYU & CREDITS:
+7 kyu @Vortus
+https://www.codewars.com/kata/55f2b110f61eb01779000053
 */
 
 

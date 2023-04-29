@@ -8,6 +8,10 @@ Complete the solution so that it splits the string into pairs of two characters.
 Examples:
 * 'abc' =>  ['ab', 'c_']
 * 'abcdef' => ['ab', 'cd', 'ef']
+
+KYU & CREDITS:
+6 kyu @jhoffner
+https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
 */
 public class StringSplit {
 	public static String[] solution(String s) {

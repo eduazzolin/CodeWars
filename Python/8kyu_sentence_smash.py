@@ -9,6 +9,10 @@ there shouldn't be a space at the beginning or the end of the sentence!
 
 Example
 ['hello', 'world', 'this', 'is', 'great']  =>  'hello world this is great'
+
+KYU & CREDITS:
+8 kyu @richardhsu
+https://www.codewars.com/kata/53dc23c68a0c93699800041d
 '''
 
 

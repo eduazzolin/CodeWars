@@ -16,6 +16,10 @@ It is much easier to understand with an example:
 * For seconds = 3662, your function should return "1 hour, 1 minute and 2 seconds"
 
 For the purpose of this Kata, a year is 365 days and a day is 24 hours.
+
+KYU & CREDITS:
+4 kyu @davazp
+https://www.codewars.com/kata/52742f58faf5485cae000b9a
 '''
 
 def format_duration(seconds):

@@ -9,6 +9,10 @@ In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G
 Example: (input --> output)
 "ATTGC" --> "TAACG"
 "GTAT" --> "CATA"
+
+KYU & CREDITS:
+7 kyu @JustyFY
+https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 */
 
 public class ComplementaryDNA {
