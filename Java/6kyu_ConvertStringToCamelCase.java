@@ -24,7 +24,7 @@ public class ConvertStringToCamelCase {
    public static String camelCase(String s) {
 
       // splits the string by '-' ou '_' and then for each word in the array,
-      // except the first one, do the upper case method to the first letter.
+      // except the first one, does the upper case method to the first letter.
       String[] strArray = s.replace('_', '-').split("-");
       String result = strArray[0];
       if (strArray.length > 1) {
