@@ -16,7 +16,7 @@ KYU & CREDITS:
 https://www.codewars.com/kata/5208f99aee097e6552000148
 */
 
-public class kyu_BreakCamelCase {
+public class BreakCamelCase {
 
    public static String camelCase(String input) {
       String result = "";
